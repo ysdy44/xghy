@@ -1,1 +1,0 @@
-![](Sources\Source.Jpeg)
