@@ -223,4 +223,13 @@
              </a>
          </td>
      </tr>
+     <tr>
+         <td>
+             <a href="Images\2022010114">
+                 <center>
+                     <img maxwidth="150" maxheight="150" src="Images\2022010114\1\Thumbnails\Thumbnail.Jpeg" />
+                 </center>
+             </a>
+         </td>
+     </tr>
  </table>
