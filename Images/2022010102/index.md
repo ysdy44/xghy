@@ -1,3 +1,5 @@
+<font size="4">愿随鸾凤仙台舞，欲落梧桐画境行。五里徘徊离恨苦，东南路上最痴情
+</font>
  <table>
      <tr>
          <td>
@@ -68,6 +70,13 @@
              <a href="9">
                  <center>
                      <img maxwidth="150" maxheight="150" src="9\Thumbnails\Thumbnail.Jpeg" />
+                 </center>
+             </a>
+         </td>
+         <td>
+             <a href="10">
+                 <center>
+                     <img maxwidth="150" maxheight="150" src="10\Thumbnails\Thumbnail.Jpeg" />
                  </center>
              </a>
          </td>

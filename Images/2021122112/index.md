@@ -1,3 +1,5 @@
+<font size="4">威尼斯水上名城的风光
+</font>
  <table>
      <tr>
          <td>
@@ -27,6 +29,15 @@
              <a href="4">
                  <center>
                      <img maxwidth="150" maxheight="150" src="4\Thumbnails\Thumbnail.Jpeg" />
+                 </center>
+             </a>
+         </td>
+     </tr>
+     <tr>
+         <td>
+             <a href="5">
+                 <center>
+                     <img maxwidth="150" maxheight="150" src="5\Thumbnails\Thumbnail.Jpeg" />
                  </center>
              </a>
          </td>

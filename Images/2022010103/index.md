@@ -1,3 +1,4 @@
+<font size="4">惆怅阶前红牡丹，晚来只有两枝残。明朝风起应吹尽，夜惜哀红把火看。一一王维巜红牡丹》</font>
  <table>
      <tr>
          <td>
@@ -155,6 +156,15 @@
              <a href="20">
                  <center>
                      <img maxwidth="150" maxheight="150" src="20\Thumbnails\Thumbnail.Jpeg" />
+                 </center>
+             </a>
+         </td>
+     </tr>
+     <tr>
+         <td>
+             <a href="21">
+                 <center>
+                     <img maxwidth="150" maxheight="150" src="21\Thumbnails\Thumbnail.Jpeg" />
                  </center>
              </a>
          </td>

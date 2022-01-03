@@ -1,3 +1,4 @@
+<font size="4">雪域仙山秘境长，无人踏雾揽苍茫。嶙峋万仞终年雪，泻玉流穿古镇滂。</font>
  <table>
      <tr>
          <td>
@@ -68,6 +69,13 @@
              <a href="9">
                  <center>
                      <img maxwidth="150" maxheight="150" src="9\Thumbnails\Thumbnail.Jpeg" />
+                 </center>
+             </a>
+         </td>
+         <td>
+             <a href="10">
+                 <center>
+                     <img maxwidth="150" maxheight="150" src="10\Thumbnails\Thumbnail.Jpeg" />
                  </center>
              </a>
          </td>

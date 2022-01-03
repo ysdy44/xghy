@@ -1,3 +1,4 @@
+<font size="4">各种风格的西方油画作品</font>
  <table>
      <tr>
          <td>
@@ -427,6 +428,15 @@
              <a href="54">
                  <center>
                      <img maxwidth="150" maxheight="150" src="54\Thumbnails\Thumbnail.Jpeg" />
+                 </center>
+             </a>
+         </td>
+     </tr>
+     <tr>
+         <td>
+             <a href="55">
+                 <center>
+                     <img maxwidth="150" maxheight="150" src="55\Thumbnails\Thumbnail.Jpeg" />
                  </center>
              </a>
          </td>

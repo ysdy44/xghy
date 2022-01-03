@@ -1,3 +1,4 @@
+<font size="4">动物</font>
  <table>
      <tr>
          <td>
@@ -219,6 +220,15 @@
              <a href="28">
                  <center>
                      <img maxwidth="150" maxheight="150" src="28\Thumbnails\Thumbnail.Jpeg" />
+                 </center>
+             </a>
+         </td>
+     </tr>
+     <tr>
+         <td>
+             <a href="29">
+                 <center>
+                     <img maxwidth="150" maxheight="150" src="29\Thumbnails\Thumbnail.Jpeg" />
                  </center>
              </a>
          </td>

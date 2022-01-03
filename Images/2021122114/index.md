@@ -1,3 +1,4 @@
+<font size="4">花气袭人知骤暖，鹊声穿树喜新晴</font>
  <table>
      <tr>
          <td>
@@ -84,6 +85,13 @@
              <a href="11">
                  <center>
                      <img maxwidth="150" maxheight="150" src="11\Thumbnails\Thumbnail.Jpeg" />
+                 </center>
+             </a>
+         </td>
+         <td>
+             <a href="12">
+                 <center>
+                     <img maxwidth="150" maxheight="150" src="12\Thumbnails\Thumbnail.Jpeg" />
                  </center>
              </a>
          </td>

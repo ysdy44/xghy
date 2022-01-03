@@ -1,3 +1,5 @@
+<font size="4">变幻莫测的肌理油画
+</font>
  <table>
      <tr>
          <td>
@@ -763,6 +765,15 @@
              <a href="96">
                  <center>
                      <img maxwidth="150" maxheight="150" src="96\Thumbnails\Thumbnail.Jpeg" />
+                 </center>
+             </a>
+         </td>
+     </tr>
+     <tr>
+         <td>
+             <a href="97">
+                 <center>
+                     <img maxwidth="150" maxheight="150" src="97\Thumbnails\Thumbnail.Jpeg" />
                  </center>
              </a>
          </td>
